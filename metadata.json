@@ -1,0 +1,7 @@
+{
+  "name": "Universal Game  Observer",
+  "description": "A simulated AI strategy engine that performs real-time game state extraction, sequence memory analysis, and future move prediction.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
